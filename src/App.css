@@ -1,0 +1,14 @@
+#container{
+  text-align: center;
+}
+button{
+  height:50px;
+  width:50px;
+}
+#calculatorContainer{
+  margin:auto;
+  text-align:center;
+  display:flex;
+  flex-wrap:wrap;
+  max-width:200px;
+}
