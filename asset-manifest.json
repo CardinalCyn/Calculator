@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CardinalCyn/calculator/static/css/main.10e77f81.css",
+    "main.js": "/CardinalCyn/calculator/static/js/main.eda148ce.js",
+    "static/js/787.85bb9051.chunk.js": "/CardinalCyn/calculator/static/js/787.85bb9051.chunk.js",
+    "index.html": "/CardinalCyn/calculator/index.html",
+    "main.10e77f81.css.map": "/CardinalCyn/calculator/static/css/main.10e77f81.css.map",
+    "main.eda148ce.js.map": "/CardinalCyn/calculator/static/js/main.eda148ce.js.map",
+    "787.85bb9051.chunk.js.map": "/CardinalCyn/calculator/static/js/787.85bb9051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e77f81.css",
+    "static/js/main.eda148ce.js"
+  ]
+}
